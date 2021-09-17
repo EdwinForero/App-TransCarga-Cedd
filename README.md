@@ -1,7 +1,7 @@
 # Aplicativo para la gestión de transporte de carga
 CEDD OZ
 
-Métodos Formales en construcción de software
+Métodos Formales en Construcción de Software
 
 
 # Integrantes:
