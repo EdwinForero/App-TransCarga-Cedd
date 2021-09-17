@@ -6,12 +6,12 @@ Métodos Formales en Construcción de Software
 
 # Integrantes:
 
-David Esteban Forero Espinosa
+David Esteban Forero Espinosa - davidforespi
 
 Diego Andrés Contreras Pérez
 
 Camilo Andrés Rodríguez Medina
 
-Juan Mateo de la Hoz Saavedra
+Juan Mateo de la Hoz Saavedra - Goodart-Bit
 
 Edwin Alejandro Forero Gómez
