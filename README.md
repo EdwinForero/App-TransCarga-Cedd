@@ -10,8 +10,8 @@ David Esteban Forero Espinosa - davidforespi
 
 Diego Andrés Contreras Pérez
 
-Camilo Andrés Rodríguez Medina
+Camilo Andrés Rodríguez Medina . camilo1512
 
 Juan Mateo de la Hoz Saavedra - Goodart-Bit
 
-Edwin Alejandro Forero Gómez
+Edwin Alejandro Forero Gómez - EdwinForero
