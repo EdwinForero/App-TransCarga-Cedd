@@ -1,9 +1,9 @@
 # Cedd-Oz
-Métodos Formales en construcción de software
+# Métodos Formales en construcción de software
 
-Aplicativo para la gestión de transporte de carga
+# Aplicativo para la gestión de transporte de carga
 
-Integrantes:
+# Integrantes:
 David Esteban Forero Espinosa
 Diego Andrés Contreras Pérez
 Camilo Andrés Rodríguez Medina
