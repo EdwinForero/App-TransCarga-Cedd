@@ -1,5 +1,5 @@
 # Aplicativo para la gestión de transporte de carga
-Cedd-Oz
+CEDD OZ
 
 Métodos Formales en construcción de software
 
